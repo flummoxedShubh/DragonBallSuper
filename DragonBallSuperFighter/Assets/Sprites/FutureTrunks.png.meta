@@ -1,0 +1,3212 @@
+fileFormatVersion: 2
+guid: 564ba3a1d801d0341a698b2f626def88
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4458132164188647699
+    second: FutureTrunks_0
+  - first:
+      213: -1696555018943086503
+    second: FutureTrunks_1
+  - first:
+      213: 8226835581907206855
+    second: FutureTrunks_2
+  - first:
+      213: -3710666600223347712
+    second: FutureTrunks_3
+  - first:
+      213: -7111363916074500084
+    second: FutureTrunks_4
+  - first:
+      213: -1793860543147287429
+    second: FutureTrunks_5
+  - first:
+      213: 5919495685057488576
+    second: FutureTrunks_6
+  - first:
+      213: 4405153895065998444
+    second: FutureTrunks_7
+  - first:
+      213: -4170805634214752098
+    second: FutureTrunks_8
+  - first:
+      213: 754341479489186575
+    second: FutureTrunks_9
+  - first:
+      213: -8293678099826244118
+    second: FutureTrunks_10
+  - first:
+      213: 7434565530290598415
+    second: FutureTrunks_11
+  - first:
+      213: -589770378473758950
+    second: FutureTrunks_12
+  - first:
+      213: -537077895250440617
+    second: FutureTrunks_13
+  - first:
+      213: -5594945709699522258
+    second: FutureTrunks_14
+  - first:
+      213: -3890328824735833539
+    second: FutureTrunks_15
+  - first:
+      213: 9034334545785931609
+    second: FutureTrunks_16
+  - first:
+      213: 2402919086627303447
+    second: FutureTrunks_17
+  - first:
+      213: 69314013996029768
+    second: FutureTrunks_18
+  - first:
+      213: -4175272396843869690
+    second: FutureTrunks_19
+  - first:
+      213: -1031291153573168863
+    second: FutureTrunks_20
+  - first:
+      213: -1825414429587396432
+    second: FutureTrunks_21
+  - first:
+      213: -4617003008776123033
+    second: FutureTrunks_22
+  - first:
+      213: 5640466943997132721
+    second: FutureTrunks_23
+  - first:
+      213: -8112670785677635354
+    second: FutureTrunks_24
+  - first:
+      213: -4581087175880067353
+    second: FutureTrunks_25
+  - first:
+      213: -5642268513739088230
+    second: FutureTrunks_26
+  - first:
+      213: -510679274449031363
+    second: FutureTrunks_27
+  - first:
+      213: -535532507410312292
+    second: FutureTrunks_28
+  - first:
+      213: -6637689631261442889
+    second: FutureTrunks_29
+  - first:
+      213: 4201539079924508933
+    second: FutureTrunks_30
+  - first:
+      213: -8911596311326231845
+    second: FutureTrunks_31
+  - first:
+      213: -4317301818802853112
+    second: FutureTrunks_32
+  - first:
+      213: 3877229220531226203
+    second: FutureTrunks_33
+  - first:
+      213: 4314939839594391393
+    second: FutureTrunks_34
+  - first:
+      213: -3919996696056864370
+    second: FutureTrunks_35
+  - first:
+      213: -1751003032936451005
+    second: FutureTrunks_36
+  - first:
+      213: -1360213283346319095
+    second: FutureTrunks_37
+  - first:
+      213: 5997144827725311369
+    second: FutureTrunks_38
+  - first:
+      213: 5825942775033391641
+    second: FutureTrunks_39
+  - first:
+      213: 4452386275540942358
+    second: FutureTrunks_40
+  - first:
+      213: -5643747920452234855
+    second: FutureTrunks_41
+  - first:
+      213: 398378874559577357
+    second: FutureTrunks_42
+  - first:
+      213: 908149298002502781
+    second: FutureTrunks_43
+  - first:
+      213: -7472514882104099413
+    second: FutureTrunks_44
+  - first:
+      213: 5573462279714528598
+    second: FutureTrunks_45
+  - first:
+      213: 5237488036849192585
+    second: FutureTrunks_46
+  - first:
+      213: 620302508177673086
+    second: FutureTrunks_47
+  - first:
+      213: -1990510497583385289
+    second: FutureTrunks_48
+  - first:
+      213: -7607333857169381282
+    second: FutureTrunks_49
+  - first:
+      213: -8930663219916841302
+    second: FutureTrunks_50
+  - first:
+      213: -5035443164404697853
+    second: FutureTrunks_51
+  - first:
+      213: 2658011887584320576
+    second: FutureTrunks_52
+  - first:
+      213: 4275486564454149144
+    second: FutureTrunks_53
+  - first:
+      213: 6326556070096465941
+    second: FutureTrunks_54
+  - first:
+      213: -6012046320655514474
+    second: FutureTrunks_55
+  - first:
+      213: 1869111905135006810
+    second: FutureTrunks_56
+  - first:
+      213: 4600293389201877072
+    second: FutureTrunks_57
+  - first:
+      213: -6731926934189927351
+    second: FutureTrunks_58
+  - first:
+      213: 5866790204510339632
+    second: FutureTrunks_59
+  - first:
+      213: -9097322149261318215
+    second: FutureTrunks_60
+  - first:
+      213: -9082932412467260094
+    second: FutureTrunks_61
+  - first:
+      213: 2002642249060876509
+    second: FutureTrunks_62
+  - first:
+      213: -756412975234999676
+    second: FutureTrunks_63
+  - first:
+      213: 5823132234678486707
+    second: FutureTrunks_64
+  - first:
+      213: -5453466435976550945
+    second: FutureTrunks_65
+  - first:
+      213: -8371329406230490670
+    second: FutureTrunks_66
+  - first:
+      213: -2903141715294903298
+    second: FutureTrunks_67
+  - first:
+      213: 4805723706593443237
+    second: FutureTrunks_68
+  - first:
+      213: 8944324502753636431
+    second: FutureTrunks_69
+  - first:
+      213: -5909352691706022863
+    second: FutureTrunks_70
+  - first:
+      213: 3543644333186660219
+    second: FutureTrunks_71
+  - first:
+      213: -48192816537307473
+    second: FutureTrunks_72
+  - first:
+      213: -1429276848632234121
+    second: FutureTrunks_73
+  - first:
+      213: 4811993619736093127
+    second: FutureTrunks_74
+  - first:
+      213: -903967542722599867
+    second: FutureTrunks_75
+  - first:
+      213: -36761254857754688
+    second: FutureTrunks_76
+  - first:
+      213: 3091680489412950998
+    second: FutureTrunks_77
+  - first:
+      213: 7886614752529216106
+    second: FutureTrunks_78
+  - first:
+      213: 3493570410710882543
+    second: FutureTrunks_79
+  - first:
+      213: -163078178174616007
+    second: FutureTrunks_80
+  - first:
+      213: 9189136262673937169
+    second: FutureTrunks_81
+  - first:
+      213: -2228111470227439288
+    second: FutureTrunks_82
+  - first:
+      213: -6243775618477863174
+    second: FutureTrunks_83
+  - first:
+      213: -7364415730985708839
+    second: FutureTrunks_84
+  - first:
+      213: -5928605245718325835
+    second: FutureTrunks_85
+  - first:
+      213: -5441599748228479603
+    second: FutureTrunks_86
+  - first:
+      213: -6137342552571522517
+    second: FutureTrunks_87
+  - first:
+      213: -8959944885061078524
+    second: FutureTrunks_88
+  - first:
+      213: -1533682024727499939
+    second: FutureTrunks_89
+  - first:
+      213: 6506414952931254840
+    second: FutureTrunks_90
+  - first:
+      213: -4626088769445945912
+    second: FutureTrunks_91
+  - first:
+      213: -6618965684822154385
+    second: FutureTrunks_92
+  - first:
+      213: -9213774867920491736
+    second: FutureTrunks_93
+  - first:
+      213: 8712259651341298052
+    second: FutureTrunks_94
+  - first:
+      213: 2769870956946383921
+    second: FutureTrunks_95
+  - first:
+      213: 32195899517212706
+    second: FutureTrunks_96
+  - first:
+      213: -7252650093467684656
+    second: FutureTrunks_97
+  - first:
+      213: -8879388614458979544
+    second: FutureTrunks_98
+  - first:
+      213: -3072453106827473151
+    second: FutureTrunks_99
+  - first:
+      213: -5389452770421904872
+    second: FutureTrunks_100
+  - first:
+      213: -1474537871098933116
+    second: FutureTrunks_101
+  - first:
+      213: 1454864136507465249
+    second: FutureTrunks_102
+  - first:
+      213: -5127288500710900298
+    second: FutureTrunks_103
+  - first:
+      213: -6561566585179839728
+    second: FutureTrunks_104
+  - first:
+      213: 6264445025355388218
+    second: FutureTrunks_105
+  - first:
+      213: -4161520157780297870
+    second: FutureTrunks_106
+  - first:
+      213: -6965316827793867030
+    second: FutureTrunks_107
+  - first:
+      213: 8560893622410416415
+    second: FutureTrunks_108
+  - first:
+      213: 8516492139377295194
+    second: FutureTrunks_109
+  - first:
+      213: 6128269787939698521
+    second: FutureTrunks_110
+  - first:
+      213: 2107202911938744740
+    second: FutureTrunks_111
+  - first:
+      213: 2054390816632829034
+    second: FutureTrunks_112
+  - first:
+      213: 2510389510268289381
+    second: FutureTrunks_113
+  - first:
+      213: 8821515743198327495
+    second: FutureTrunks_114
+  - first:
+      213: -8053460948371364152
+    second: FutureTrunks_115
+  - first:
+      213: -4519126522571292646
+    second: FutureTrunks_116
+  - first:
+      213: 4707018614272443901
+    second: FutureTrunks_117
+  - first:
+      213: 8864286684558511047
+    second: FutureTrunks_118
+  - first:
+      213: -8076717755433659959
+    second: FutureTrunks_119
+  - first:
+      213: 753073308736681468
+    second: FutureTrunks_120
+  - first:
+      213: 2949896992437068010
+    second: FutureTrunks_121
+  - first:
+      213: -8444437009290592414
+    second: FutureTrunks_122
+  - first:
+      213: -2072448451424943254
+    second: FutureTrunks_123
+  - first:
+      213: -4092501143574543624
+    second: FutureTrunks_124
+  - first:
+      213: -2203034867870426441
+    second: FutureTrunks_125
+  - first:
+      213: 7724829351116653229
+    second: FutureTrunks_126
+  - first:
+      213: 3009608065024715367
+    second: FutureTrunks_127
+  - first:
+      213: 5992339956435079338
+    second: FutureTrunks_128
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FutureTrunks_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1117
+        width: 121
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deecac7ba688122c0800000000000000
+      internalID: -4458132164188647699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_1
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1089
+        width: 234
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950cdf1f230a478e0800000000000000
+      internalID: -1696555018943086503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_2
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1102
+        width: 71
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c28f15cf579b2270800000000000000
+      internalID: 8226835581907206855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_3
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1102
+        width: 77
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ce7c51360118cc0800000000000000
+      internalID: -3710666600223347712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_4
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1021
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0049d9223c5f4d90800000000000000
+      internalID: -7111363916074500084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1021
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cdd1d175dea17e0800000000000000
+      internalID: -1793860543147287429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_6
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1021
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c62f4576f5462250800000000000000
+      internalID: 5919495685057488576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_7
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1021
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c645658c020422d30800000000000000
+      internalID: 4405153895065998444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_8
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1021
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e909e61af525e16c0800000000000000
+      internalID: -4170805634214752098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_9
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1021
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bab443495f77a00800000000000000
+      internalID: 754341479489186575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_10
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1021
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae58b62c5bfe6ec80800000000000000
+      internalID: -8293678099826244118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_11
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1021
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02b554b5f1ec2760800000000000000
+      internalID: 7434565530290598415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_12
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1021
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f160c27f6b0d7f0800000000000000
+      internalID: -589770378473758950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_13
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1021
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e02e4ff7aeb88f0800000000000000
+      internalID: -537077895250440617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_14
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1024
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21a3c33582ca52b0800000000000000
+      internalID: -5594945709699522258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_15
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1050
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d326826bb86c20ac0800000000000000
+      internalID: -3890328824735833539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_16
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1050
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9574c974767606d70800000000000000
+      internalID: 9034334545785931609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_17
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1027
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7103d669d22e85120800000000000000
+      internalID: 2402919086627303447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_18
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 951
+        width: 65
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847903e7ab046f000800000000000000
+      internalID: 69314013996029768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_19
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 994
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a90a960e37e06c0800000000000000
+      internalID: -4175272396843869690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_20
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 994
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129b44be82e10b1f0800000000000000
+      internalID: -1031291153573168863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_21
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 994
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8229c6f33daa6e0800000000000000
+      internalID: -1825414429587396432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_22
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 951
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d4df6b93c1defb0800000000000000
+      internalID: -4617003008776123033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_23
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 954
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf38441dc6f64e40800000000000000
+      internalID: 5640466943997132721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_24
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 963
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0def737e00a6f80800000000000000
+      internalID: -8112670785677635354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_25
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 956
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e632943c75bc60c0800000000000000
+      internalID: -4581087175880067353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_26
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 951
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ed5374ea2a2b1b0800000000000000
+      internalID: -5642268513739088230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_27
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 951
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3faf44d7e3b9e8f0800000000000000
+      internalID: -510679274449031363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_28
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 951
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93522a95086198f0800000000000000
+      internalID: -535532507410312292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_29
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 951
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc3e57c27032e3a0800000000000000
+      internalID: -6637689631261442889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_30
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 951
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50962d0588dde4a30800000000000000
+      internalID: 4201539079924508933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_31
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 951
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2f7b9de56a35480800000000000000
+      internalID: -8911596311326231845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_32
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 951
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bab1eaedcd514c0800000000000000
+      internalID: -4317301818802853112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_33
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 951
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5647820f6faec530800000000000000
+      internalID: 3877229220531226203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_34
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 951
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167643e2ceeb1eb30800000000000000
+      internalID: 4314939839594391393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_35
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 883
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8163d226cf5999c0800000000000000
+      internalID: -3919996696056864370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_36
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 883
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344f03dc40033b7e0800000000000000
+      internalID: -1751003032936451005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_37
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 883
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909ff5bb93d8f1de0800000000000000
+      internalID: -1360213283346319095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_38
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 883
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d632352732a3350800000000000000
+      internalID: 5997144827725311369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_39
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 894
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a6e933618e9d050800000000000000
+      internalID: 5825942775033391641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_40
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 883
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e31745abd0acd30800000000000000
+      internalID: 4452386275540942358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_41
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 883
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991589f0b216da1b0800000000000000
+      internalID: -5643747920452234855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_42
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 883
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0db428c973578500800000000000000
+      internalID: 398378874559577357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_43
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 888
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74a57699f46a9c00800000000000000
+      internalID: 908149298002502781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_44
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 883
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad7d594e4b4c4890800000000000000
+      internalID: -7472514882104099413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_45
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 888
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d5c67f96ae85d40800000000000000
+      internalID: 5573462279714528598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_46
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 888
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e01cfbe9b4fa840800000000000000
+      internalID: 5237488036849192585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_47
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 890
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bc63d38d1cb9800800000000000000
+      internalID: 620302508177673086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_48
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 889
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7353bd5af394064e0800000000000000
+      internalID: -1990510497583385289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_49
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 883
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58ed9b89225d6690800000000000000
+      internalID: -7607333857169381282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_50
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 883
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaed5304e19ef0480800000000000000
+      internalID: -8930663219916841302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_51
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 883
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3053df2fe138e1ab0800000000000000
+      internalID: -5035443164404697853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_52
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 816
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c9a30aab723e420800000000000000
+      internalID: 2658011887584320576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 816
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cae3cb064955b30800000000000000
+      internalID: 4275486564454149144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_54
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 816
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510f0b9e9317cc750800000000000000
+      internalID: 6326556070096465941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_55
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 816
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694422c79bbe09ca0800000000000000
+      internalID: -6012046320655514474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_56
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 816
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54960fef5b60f910800000000000000
+      internalID: 1869111905135006810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_57
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 816
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058a4fdc67687df30800000000000000
+      internalID: 4600293389201877072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_58
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 816
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94499b1ee146392a0800000000000000
+      internalID: -6731926934189927351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_59
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 822
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032849f7b960b6150800000000000000
+      internalID: 5866790204510339632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_60
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 823
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b76cf574b1dfb180800000000000000
+      internalID: -9097322149261318215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_61
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 815
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245d1042811f2f180800000000000000
+      internalID: -9082932412467260094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_62
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 816
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0867bd380dacb10800000000000000
+      internalID: 2002642249060876509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_63
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 816
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a1f9b186ea085f0800000000000000
+      internalID: -756412975234999676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_64
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 736
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b643284aebefc050800000000000000
+      internalID: 5823132234678486707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_65
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 736
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd52a119b256154b0800000000000000
+      internalID: -5453466435976550945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_66
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 736
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d199db124013db80800000000000000
+      internalID: -8371329406230490670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_67
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 736
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3aa3fcdf7f5b7d0800000000000000
+      internalID: -2903141715294903298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_68
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 736
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adfc24df3c51b240800000000000000
+      internalID: 4805723706593443237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_69
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 736
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40f3760fbf902c70800000000000000
+      internalID: 8944324502753636431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_70
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 736
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1343d563903cdfda0800000000000000
+      internalID: -5909352691706022863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_71
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 736
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77bae9febd8d2130800000000000000
+      internalID: 3543644333186660219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_72
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 739
+        width: 65
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6719183e8c45ff0800000000000000
+      internalID: -48192816537307473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_73
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 739
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ff59f57403a2ce0800000000000000
+      internalID: -1429276848632234121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_74
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 738
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1e0ddb3b2a7c240800000000000000
+      internalID: 4811993619736093127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_75
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 736
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544698f2f467473f0800000000000000
+      internalID: -903967542722599867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_76
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 758
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7b4be55d56d7ff0800000000000000
+      internalID: -36761254857754688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_77
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 736
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbf672560bd7ea20800000000000000
+      internalID: 3091680489412950998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_78
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 736
+        width: 53
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62fbd41552e27d60800000000000000
+      internalID: 7886614752529216106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_79
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 660
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8dc3067c7ab7030800000000000000
+      internalID: 3493570410710882543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_80
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 656
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93eb84fc241acbdf0800000000000000
+      internalID: -163078178174616007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_81
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 656
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1133759aebe568f70800000000000000
+      internalID: 9189136262673937169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_82
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 650
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841ce114c682411e0800000000000000
+      internalID: -2228111470227439288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_83
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 650
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afec16be727a959a0800000000000000
+      internalID: -6243775618477863174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_84
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 656
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d25c4839e65cc990800000000000000
+      internalID: -7364415730985708839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_85
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 656
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5117ba0fc59bda0800000000000000
+      internalID: -5928605245718325835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_86
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 656
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d858cfc1cdd8b74b0800000000000000
+      internalID: -5441599748228479603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_87
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 656
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22d5192777c3daa0800000000000000
+      internalID: -6137342552571522517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_88
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 656
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4023bde4991e7a380800000000000000
+      internalID: -8959944885061078524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_89
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 647
+        width: 91
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b27b5035447bae0800000000000000
+      internalID: -1533682024727499939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_90
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 567
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832e1ce5ded6b4a50800000000000000
+      internalID: 6506414952931254840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_91
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 570
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd10c536c4dccfb0800000000000000
+      internalID: -4626088769445945912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_92
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 579
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63eca747c5b424a0800000000000000
+      internalID: -6618965684822154385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_93
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 579
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b6d250398122080800000000000000
+      internalID: -9213774867920491736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_94
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 582
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489aa2d4ef928e870800000000000000
+      internalID: 8712259651341298052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_95
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 512
+        width: 127
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134e57eb5fe807620800000000000000
+      internalID: 2769870956946383921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_96
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 446
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22892f10002627000800000000000000
+      internalID: 32195899517212706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_97
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 444
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0b7aa8a29695b90800000000000000
+      internalID: -7252650093467684656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_98
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 444
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b4684a91316c480800000000000000
+      internalID: -8879388614458979544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_99
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 444
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fc08a8d247c55d0800000000000000
+      internalID: -3072453106827473151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_100
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 442
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ae1458241d435b0800000000000000
+      internalID: -5389452770421904872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_101
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 442
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48099416e93698be0800000000000000
+      internalID: -1474537871098933116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_102
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 426
+        width: 250
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e9bf45937b03410800000000000000
+      internalID: 1454864136507465249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_103
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 355
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd7e2e264638d8b0800000000000000
+      internalID: -5127288500710900298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_104
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 355
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013684894f1a0f4a0800000000000000
+      internalID: -6561566585179839728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_105
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 355
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3555436f87cfe650800000000000000
+      internalID: 6264445025355388218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_106
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 355
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277b0e5177f4f36c0800000000000000
+      internalID: -4161520157780297870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_107
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 355
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeebb4bbf39365f90800000000000000
+      internalID: -6965316827793867030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_108
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 355
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f111eab54676ec670800000000000000
+      internalID: 8560893622410416415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_109
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 360
+        width: 146
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f7dfb7a78a03670800000000000000
+      internalID: 8516492139377295194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_110
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 278
+        width: 78
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95777e537ecfb0550800000000000000
+      internalID: 6128269787939698521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_111
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 213
+        width: 131
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a117cb42e94e3d10800000000000000
+      internalID: 2107202911938744740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_112
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 237
+        width: 49
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6479372099a28c10800000000000000
+      internalID: 2054390816632829034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_113
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 256
+        width: 38
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561886f75f1b6d220800000000000000
+      internalID: 2510389510268289381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_114
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 232
+        width: 88
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c23add74d15c6a70800000000000000
+      internalID: 8821515743198327495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_115
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 144
+        width: 52
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c628dfbfeb5c3090800000000000000
+      internalID: -8053460948371364152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_116
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 232
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10871ffe56d841c0800000000000000
+      internalID: -4519126522571292646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_117
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 232
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df54cd6ad70b25140800000000000000
+      internalID: 4707018614272443901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_118
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 232
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbc55c46c5440b70800000000000000
+      internalID: 8864286684558511047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_119
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 232
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c159446efbb9ef80800000000000000
+      internalID: -8076717755433659959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_120
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 232
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5f3113f24737a00800000000000000
+      internalID: 753073308736681468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_121
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 232
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae064367fa320f820800000000000000
+      internalID: 2949896992437068010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_122
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 232
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f7215d7455fca80800000000000000
+      internalID: -8444437009290592414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_123
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 232
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63028d1d1f2d33e0800000000000000
+      internalID: -2072448451424943254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_124
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 232
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f20c5694e38437c0800000000000000
+      internalID: -4092501143574543624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_125
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 232
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba98c8b57f3d61e0800000000000000
+      internalID: -2203034867870426441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_126
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 232
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2c1dfed5b143b60800000000000000
+      internalID: 7724829351116653229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_127
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 232
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ae2fce69644c920800000000000000
+      internalID: 3009608065024715367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FutureTrunks_128
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 196
+        width: 87
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa051bc0171192350800000000000000
+      internalID: 5992339956435079338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
