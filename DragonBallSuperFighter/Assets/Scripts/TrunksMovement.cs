@@ -19,9 +19,19 @@ public class TrunksMovement : MonoBehaviour
 
     void Update()
     {
-        movement.x = Input.GetAxis("Horizontal");
-        anim.SetFloat("Horizontal", movement.x);
+        movement.x = Input.GetAxisRaw("Horizontal");
+        
+        if(movement.x != 0)
+        {
+            anim.SetBool("isMoving", true);
+            anim.SetFloat("Horizontal", movement.x);
+        }
+        else
+        {
+            anim.SetBool("isMoving", false);
+        }
 
-        rb.MovePosition(new Vector2(movement.x * speed * Time.fixedDeltaTime, rb.position.y));
+
+        rb.MovePosition(rb.position + movement * speed * Time.fixedDeltaTime);
     }
 }
